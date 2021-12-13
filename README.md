@@ -1,1 +1,1 @@
-# WebDev-ZWS-Template02
+# Zero Web School -Template #02
