@@ -13,11 +13,11 @@ This is my solution to the [[Kasper Template Challenge on Zero Web School]](http
 
 Desktop
 
-![Desktop](images/Screenshot-Desktop.png)
+![Desktop](images/Screenshot-Desktop.jpg)
 
 Mobile
 
-![Mobile.png](images/Screenshot-Mobile.png)
+![Mobile.png](images/Screenshot-Mobile.jpg)
 
 ### Links
 
